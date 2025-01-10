@@ -40,18 +40,18 @@ export const description = [
       //   text: ".",
       // },
     ],
-    markDefs: [
-      {
-        _key: "ec5b66c9b1e0",
-        _type: "link",
-        href: "https://nextjs.org/",
-      },
-      {
-        _key: "1f8991913ea8",
-        _type: "link",
-        href: "https://sanity.io/",
-      },
-    ],
+    // markDefs: [
+    //   {
+    //     _key: "ec5b66c9b1e0",
+    //     _type: "link",
+    //     href: "https://nextjs.org/",
+    //   },
+    //   {
+    //     _key: "1f8991913ea8",
+    //     _type: "link",
+    //     href: "https://sanity.io/",
+    //   },
+    // ],
     style: "normal",
   },
 ];
